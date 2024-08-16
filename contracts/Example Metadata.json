@@ -1,0 +1,17 @@
+{
+  "name": "Song Title",
+  "description": "A brief description of the song.",
+  "image": "https://ipfs.infura.io/ipfs/Qm... (image hash)",
+  "audio": "https://ipfs.infura.io/ipfs/Qm... (audio hash)",
+  "artist": "Artist Name",
+  "attributes": [
+    {
+      "trait_type": "Genre",
+      "value": "Genre Name"
+    },
+    {
+      "trait_type": "Release Date",
+      "value": "2024-08-06"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+{"name": "Plus Boy", "description": "Singer: Kagamine Len", "image": "https://i1.sndcdn.com/artworks-000082594908-4lu2yv-t500x500.jpg", 
+"audio": "http://127.0.0.1:5000/static/Plus-Boy.mp3",
+"attributes": [{"trait_type": "Genre", "value": "Jpop"}, {"trait_type": "Artist", "value": "Giga"}]}

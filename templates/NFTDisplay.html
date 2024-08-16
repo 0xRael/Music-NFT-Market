@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <script type="text/babel">
+        
+        function App() {
+            return (
+            <div>
+                <main>
+                    <NFTDisplay contractAddressProp="{{ contract_address }}"
+                    tokenIdProp="{{ token_id }}" />
+                </main>
+            </div>
+            );
+        }
+
+        ReactDOM.render(<App />, document.querySelector('#root'));
+    </script>
+{% endblock %}

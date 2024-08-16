@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <script src="{{ url_for('static', filename='marketplace.js') }}" type="text/babel"></script>
+    <script type="text/babel">
+        //const gContractAddress = "{{ contract_address }}";
+        //const gTokenId = "{{ token_id }}";
+
+        function App() {
+            
+            return (
+            <div>
+                <main>
+                    <MarketListings />
+                </main>
+            </div>
+            );
+        }
+
+        ReactDOM.render(<App />, document.querySelector('#root'));
+    </script>
+{% endblock %}
