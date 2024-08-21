@@ -1,3 +1,8 @@
+# See https://github.com/0xRael/Music-Nft-Next.js instead
+I remade this into Next.js so I could upload to Vercel and use Pinata SDK.
+Pls see the new repository: https://github.com/0xRael/Music-Nft-Next.js
+Or see its page: https://music-nft-next-js.vercel.app
+
 Basically, a platform where musicians can mint NFTs with their music, put them to sell, and users can easily buy these NFTs, with all the Market logic happening on-chain
 
 ## My Music NFT Marketplace
